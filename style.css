@@ -27,7 +27,28 @@ nav a{
   text-decoration:none;
   font-weight:bold;
 }
+body.dark{
+  background:#111;
+  color:#fff;
+}
 
+body.dark header{
+  background:#000;
+}
+
+body.dark .card{
+  background:#1a1a1a;
+  color:#fff;
+}.dark-btn{
+  float:right;
+  background:#fff;
+  color:#7b1e1e;
+  border:none;
+  padding:5px 10px;
+  cursor:pointer;
+  font-size:18px;
+  border-radius:5px;
+}
 .hero{
   padding:50px;
   text-align:center;
