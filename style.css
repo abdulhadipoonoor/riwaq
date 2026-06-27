@@ -61,3 +61,16 @@ footer{
   color:white;
   margin-top:20px;
 }
+body.dark{
+  background:#111;
+  color:#fff;
+}
+
+body.dark header{
+  background:#000;
+}
+
+body.dark .card{
+  background:#1a1a1a;
+  color:#fff;
+}
